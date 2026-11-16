@@ -1,53 +1,15 @@
-# Problem Hook & Value Proposition: [StreamLine / RouteLogic / your initiative]
+# Problem Hook & Value Proposition (Module 1)
 
-> **Module 1 · ★ Deliverable 1.** Repo file `01-product-thinking/problem-hook.md` — part of your submission.
-> Do the lab in the **Module 1 · Exercise 2 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It becomes the **Problem, Value & Hypothesis** slide of your Module 6 final deck. (Your Module 1 · Exercise 1 discovery map lands in `strategic-map.md`.)
+## Responses
+- **Chosen path, which scenario are you committing to? (StreamLine or RouteLogic, or your own):** StreamLine Spotlight
+- **Strategic crisis, based on the brief, if the company does nothing for 12 months, what happens to its market position?:** If the company does nothing for 12 months will lose competitive advantage overtime. With the increase churn and declining engagement there will be less income.
+- **Moment of misery, what is the user likely doing outside the product (Google, spreadsheets, a competitor) because your tool isn’t serving them?:** search for content on competitive platforms, or go search on communities for reviews of great content
+- **Problem hook, summarize the business risk and user pain into one urgent sentence.:** We must solve the growing subscriber churn and declining engagement by addressing users' frustration with an overwhelming content library that makes discovering high-quality, relevant films difficult, pushing them towards competing platforms and external discovery tools
+- **Value proposition, based on the proposed initiative (Spotlight or Velocity), what is the new value and why is it urgent to launch now?:** We will initially invest in human curation and editorial collections, using StreamLine's existing catalogue to minimize content acquisition costs, while introducing a premium subscription for exclusive Spotlight access and postponing community suggestions and subscription rewards to a future phase to avoid additional development and operational expenses. We need to launch now to reverse rising churn, recover user engagement and protect our competitive position.
 
-## 1. Chosen scenario
+## Cold-read your own hook
+- **Is the business risk high enough to justify a new initiative, a high-stakes threat, or a minor inconvenience?:** I think it is enough to justify a new initiative. Since there is a strong competition for other platform and we are losing subscribers and viewers by the day, we need to come up with better oriented content for our customers in order to reduce their frustration and therefore reduce the user churn rising
+- **Is the moment of misery a systemic problem or just an edge case?:** It's a systemic problem. We have a growing content library but the engagement is declining and there's an increasing subscriber churn.
+- **Does the value proposition actually remove the obstacle you identified, or is it a generic feature?:** The value proposition addresses the identified obstacle. Editorial collections and human curation will directly tackle the difficulty of discovering high-quality films in a sometimes overwhelming catalogue by reducing frustrations and fatigue of the users. 
 
-**Path:** _StreamLine Spotlight (B2C) · RouteLogic Velocity (B2B) · my own initiative_
-
-_One line on why you picked it._
-
-## 2. The strategic crisis
-
-_The big-picture business risk. If the company does nothing for 12 months, what happens to its market position?_
-
-> If we do nothing for 12 months, the company will…
-
-## 3. The moment of misery
-
-_The specific point where the product fails the user, forcing a manual workaround (Google, spreadsheets, group texts, a competitor)._
-
-> The user is currently forced to…
-
-## 4. Problem hook
-
-_One urgent sentence fusing the business risk and the user pain, your pitch for why this is the most important thing to work on right now._
-
-> We must solve [business risk] by addressing [user pain]…
-
-## 5. Value proposition
-
-_Who it's for, the new value, and why it's urgent to launch now._
-
-> For **[who]**, we will **[value]** because **[urgent why]**.
-
-## 6. Cold-read self-review
-
-_Read your hook back as a skeptical stakeholder. If you don't feel the urgency, that's your data._
-
-| Question | Your answer |
-|---|---|
-| Is the business risk high-stakes enough to justify a new initiative? | _____ |
-| Is the moment of misery systemic, or just an edge case? | _____ |
-| Does the value proposition actually remove the obstacle? | _____ |
-
-## 7. Finalized hypothesis _(complete in Module 3)_
-
-> Based on [qual + quant evidence], I believe that [solving X] for [persona] will result in [outcome], as measured by a [X%] change in [success metric]. I will protect [guardrail metric] and make a go/no-go decision after [decision window].
-
-## Link to full artifact
-
-_[link to your Problem Hook Builder export]_
+The success, however, is dependent on delivering genuinely valuable recommendations that differentiate us from other completing platforms
