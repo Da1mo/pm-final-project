@@ -13,4 +13,4 @@ Go to the DVD shelf and pick something familiar from a small set.
 - **The evidence, a specific quote or behavior from the research that proves this:** Priya (UXR-01): “There’s 15,000 titles but nothing I actually want. I ended up going back to a DVD.”
 Aisha (UXR-03): “Discovering anything new feels like a chore, so I don’t.”
 Focus group (UXR-12): three of six participants said the sheer number of choices made them anxious and they’d rather someone “just tell me what’s good tonight.”
-- **Your journey map, a shareable link, or the map file you committed (e.g. journey-map.html):** https://github.com/Da1mo/pm-final-project/blob/main/02-discovery/spotlight-future-state-journey.md
+- **Your journey map, a shareable link, or the map file you committed (e.g. journey-map.html):** https://github.com/Da1mo/pm-final-project/blob/97156da4ae95e89c779fa1824ec01ff678ebc7bf/02-discovery/spotlight-future-state-journey.md
