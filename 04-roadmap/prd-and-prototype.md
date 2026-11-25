@@ -1,5 +1,4 @@
-https://claude.ai/share/164bd613-6b3e-4502-9af4-760d52b7ef32
-
+https://claude.ai/artifact/HdmmVDmJxc3AJiDeL4YfJN
 
 # A1 · Spotlight Curated Rail Hand-picked homepage rail that bypasses the algorithm, Simplified PRD (StreamLine)
 
